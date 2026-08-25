@@ -71,44 +71,11 @@
 	
 
 	
-	<scene name="scene_1b52_00" title="1B52_00" onstart="" thumburl="panos/1B52_00.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
-		
-		<control bouncinglimits="calc:image.cube ? true : false" />
-
-		<view hlookat="-118.504" vlookat="13.429" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
-
-		<preview url="panos/1B52_00.tiles/preview.jpg" />
-
-		<image>
-			<cube url="panos/1B52_00.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024" />
-		</image>
-
-		<hotspot name="spot2097502841" style="skin_hotspotstyle" ath="176.888" atv="53.39" depth="1000.0" linkedscene="scene_1b52_01" linkedscene_hoffset="0.0" use3dtransition="true" />
-		<hotspot name="spot2097502917" style="skin_hotspotstyle" ath="-89.043" atv="22.293" depth="1000.0" linkedscene="scene_1b52_22" linkedscene_hoffset="0.0" use3dtransition="true" />
-
-	</scene>
-
-	<scene name="scene_1b52_01" title="1B52_01" onstart="" thumburl="panos/1B52_01.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
-		
-		<control bouncinglimits="calc:image.cube ? true : false" />
-
-		<view hlookat="0.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
-
-		<preview url="panos/1B52_01.tiles/preview.jpg" />
-
-		<image>
-			<cube url="panos/1B52_01.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024" />
-		</image>
-
-		<hotspot name="spot2097503003" style="skin_hotspotstyle" ath="-4.232" atv="57.216" depth="1000.0" linkedscene="scene_1b52_00" linkedscene_hoffset="0.0" use3dtransition="true" />
-
-	</scene>
-
 	<scene name="scene_1b52_22" title="1B52_22" onstart="" thumburl="panos/1B52_22.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
-		<view hlookat="0.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="-32.088" vlookat="27.826" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
 		<preview url="panos/1B52_22.tiles/preview.jpg" />
 
@@ -116,9 +83,8 @@
 			<cube url="panos/1B52_22.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024" />
 		</image>
 
-		<hotspot name="spot2097503097" style="skin_hotspotstyle" ath="-88.568" atv="50.559" depth="1000.0" linkedscene="scene_1b52_26" linkedscene_hoffset="0.0" use3dtransition="true" />
-		<hotspot name="spot2097503164" style="skin_hotspotstyle" ath="90.616" atv="23.609" depth="1000.0" linkedscene="scene_1b52_00" linkedscene_hoffset="0.0" use3dtransition="true" />
-		<hotspot name="spot2097503272" style="skin_hotspotstyle" ath="-88.743" atv="32.672" depth="1000.0" linkedscene="scene_1b52_27" linkedscene_hoffset="0.0" use3dtransition="true" />
+		<hotspot name="spot2098346905" style="skin_hotspotstyle" ath="-93.848" atv="50.555" depth="1000.0" linkedscene="scene_1b52_26" linkedscene_hoffset="0.0" use3dtransition="true" />
+		<hotspot name="spot2098346951" style="skin_hotspotstyle" ath="-92.505" atv="31.949" depth="1000.0" linkedscene="scene_1b52_27" linkedscene_hoffset="0.0" use3dtransition="true" />
 
 	</scene>
 
@@ -134,9 +100,8 @@
 			<cube url="panos/1B52_26.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024" />
 		</image>
 
-		<hotspot name="spot2097503346" style="skin_hotspotstyle" ath="88.753" atv="48.124" depth="1000.0" linkedscene="scene_1b52_22" linkedscene_hoffset="0.0" use3dtransition="true" />
-		<hotspot name="spot2097503397" style="skin_hotspotstyle" ath="90.409" atv="17.221" depth="1000.0" linkedscene="scene_1b52_00" linkedscene_hoffset="0.0" use3dtransition="true" />
-		<hotspot name="spot2097503445" style="skin_hotspotstyle" ath="-90.798" atv="50.38" depth="1000.0" linkedscene="scene_1b52_27" linkedscene_hoffset="0.0" use3dtransition="true" />
+		<hotspot name="spot2098347038" style="skin_hotspotstyle" ath="-92.044" atv="48.366" depth="1000.0" linkedscene="scene_1b52_27" linkedscene_hoffset="0.0" use3dtransition="true" />
+		<hotspot name="spot2098347083" style="skin_hotspotstyle" ath="91.397" atv="49.772" depth="1000.0" linkedscene="scene_1b52_22" linkedscene_hoffset="0.0" use3dtransition="true" />
 
 	</scene>
 
@@ -152,9 +117,8 @@
 			<cube url="panos/1B52_27.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024" />
 		</image>
 
-		<hotspot name="spot2097503522" style="skin_hotspotstyle" ath="86.53" atv="52.936" depth="1000.0" linkedscene="scene_1b52_26" linkedscene_hoffset="0.0" use3dtransition="true" />
-		<hotspot name="spot2097503584" style="skin_hotspotstyle" ath="87.335" atv="32.425" depth="1000.0" linkedscene="scene_1b52_22" linkedscene_hoffset="0.0" use3dtransition="true" />
-		<hotspot name="spot2097503651" style="skin_hotspotstyle" ath="90.27" atv="13.854" depth="1000.0" linkedscene="scene_1b52_00" linkedscene_hoffset="0.0" use3dtransition="true" />
+		<hotspot name="spot2098347155" style="skin_hotspotstyle" ath="89.175" atv="49.891" depth="1000.0" linkedscene="scene_1b52_26" linkedscene_hoffset="0.0" use3dtransition="true" />
+		<hotspot name="spot2098347184" style="skin_hotspotstyle" ath="90.01" atv="31.306" depth="1000.0" linkedscene="scene_1b52_22" linkedscene_hoffset="0.0" use3dtransition="true" />
 
 	</scene>
 
