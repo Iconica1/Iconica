@@ -80,7 +80,7 @@
 		<preview url="panos/1B52_00.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_00.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_00.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973166242" style="skin_hotspotstyle" ath="-179.891" atv="58.048" depth="1000.0" linkedscene="scene_1b52_01" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -101,7 +101,7 @@
 		<preview url="panos/1B52_01.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_01.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_01.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973679190" style="skin_hotspotstyle" ath="178.186" atv="59.475" depth="1000.0" linkedscene="scene_1b52_02" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -122,7 +122,7 @@
 		<preview url="panos/1B52_02.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_02.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_02.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973684680" style="skin_hotspotstyle" ath="87.033" atv="45.711" depth="1000.0" linkedscene="scene_1b52_03" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -146,7 +146,7 @@
 		<preview url="panos/1B52_03.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_03.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_03.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973686266" style="skin_hotspotstyle" ath="-0.737" atv="45.801" depth="1000.0" linkedscene="scene_1b52_04" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -165,7 +165,7 @@
 		<preview url="panos/1B52_04.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_04.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_04.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973686690" style="skin_hotspotstyle" ath="-176.622" atv="48.45" depth="1000.0" linkedscene="scene_1b52_03" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -181,7 +181,7 @@
 		<preview url="panos/1B52_05.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_05.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_05.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973687126" style="skin_hotspotstyle" ath="169.309" atv="53.247" depth="1000.0" linkedscene="scene_1b52_06" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -200,7 +200,7 @@
 		<preview url="panos/1B52_06.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_06.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_06.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973687564" style="skin_hotspotstyle" ath="-3.042" atv="49.608" depth="1000.0" linkedscene="scene_1b52_05" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -218,7 +218,7 @@
 		<preview url="panos/1B52_07.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_07.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_07.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973687843" style="skin_hotspotstyle" ath="-25.608" atv="42.989" depth="1000.0" linkedscene="scene_1b52_06" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -236,7 +236,7 @@
 		<preview url="panos/1B52_08.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_08.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_08.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973688364" style="skin_hotspotstyle" ath="-177.608" atv="44.164" depth="1000.0" linkedscene="scene_1b52_09" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -258,7 +258,7 @@
 		<preview url="panos/1B52_09.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_09.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_09.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973688994" style="skin_hotspotstyle" ath="-174.02" atv="40.432" depth="1000.0" linkedscene="scene_1b52_10" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -282,7 +282,7 @@
 		<preview url="panos/1B52_10.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_10.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_10.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973690605" style="skin_hotspotstyle" ath="-85.074" atv="47.377" depth="1000.0" linkedscene="scene_1b52_11" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -302,7 +302,7 @@
 		<preview url="panos/1B52_11.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_11.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_11.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973690907" style="skin_hotspotstyle" ath="-65.586" atv="34.549" depth="1000.0" linkedscene="scene_1b52_17" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -323,7 +323,7 @@
 		<preview url="panos/1B52_12.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_12.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_12.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 	</scene>
@@ -337,7 +337,7 @@
 		<preview url="panos/1B52_13.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_13.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_13.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973693485" style="skin_hotspotstyle" ath="-92.88" atv="49.941" depth="1000.0" linkedscene="scene_1b52_14" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -360,7 +360,7 @@
 		<preview url="panos/1B52_14.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_14.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_14.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973693145" style="skin_hotspotstyle" ath="-159.828" atv="33.34" depth="1000.0" linkedscene="scene_1b52_16" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -383,7 +383,7 @@
 		<preview url="panos/1B52_15.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_15.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_15.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973692376" style="skin_hotspotstyle" ath="91.063" atv="46.332" depth="1000.0" linkedscene="scene_1b52_14" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -406,7 +406,7 @@
 		<preview url="panos/1B52_16.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_16.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_16.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973691871" style="skin_hotspotstyle" ath="22.94" atv="32.983" depth="1000.0" linkedscene="scene_1b52_14" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -428,7 +428,7 @@
 		<preview url="panos/1B52_17.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_17.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_17.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973691485" style="skin_hotspotstyle" ath="-28.624" atv="43.028" depth="1000.0" linkedscene="scene_1b52_16" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -451,7 +451,7 @@
 		<preview url="panos/1B52_18.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_18.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_18.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973692872" style="skin_hotspotstyle" ath="-177.437" atv="23.883" depth="1000.0" linkedscene="scene_1b52_19" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -468,7 +468,7 @@
 		<preview url="panos/1B52_19.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_19.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_19.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973693032" style="skin_hotspotstyle" ath="0.655" atv="22.991" depth="1000.0" linkedscene="scene_1b52_18" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -485,7 +485,7 @@
 		<preview url="panos/1B52_20.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_20.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_20.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973679927" style="skin_hotspotstyle" ath="-93.914" atv="52.633" depth="1000.0" linkedscene="scene_1b52_21" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -504,7 +504,7 @@
 		<preview url="panos/1B52_21.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_21.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_21.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973680020" style="skin_hotspotstyle" ath="94.274" atv="58.161" depth="1000.0" linkedscene="scene_1b52_20" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -523,7 +523,7 @@
 		<preview url="panos/1B52_22.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_22.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_22.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973680680" style="skin_hotspotstyle" ath="92.447" atv="58.728" depth="1000.0" linkedscene="scene_1b52_21" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -544,7 +544,7 @@
 		<preview url="panos/1B52_23.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_23.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_23.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973681234" style="skin_hotspotstyle" ath="88.998" atv="48.362" depth="1000.0" linkedscene="scene_1b52_24" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -564,7 +564,7 @@
 		<preview url="panos/1B52_24.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_24.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_24.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973681703" style="skin_hotspotstyle" ath="37.478" atv="44.581" depth="1000.0" linkedscene="scene_1b52_25" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -581,7 +581,7 @@
 		<preview url="panos/1B52_25.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_25.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_25.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973681903" style="skin_hotspotstyle" ath="-138.399" atv="48.547" depth="1000.0" linkedscene="scene_1b52_24" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -598,7 +598,7 @@
 		<preview url="panos/1B52_26.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_26.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_26.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973682938" style="skin_hotspotstyle" ath="-95.355" atv="49.008" depth="1000.0" linkedscene="scene_1b52_27" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -620,7 +620,7 @@
 		<preview url="panos/1B52_27.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_27.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_27.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973682100" style="skin_hotspotstyle" ath="-4.531" atv="46.344" depth="1000.0" linkedscene="scene_1b52_28" linkedscene_hoffset="0.0" use3dtransition="true" />
@@ -640,7 +640,7 @@
 		<preview url="panos/1B52_28.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1B52_28.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640,1280" />
+			<cube url="panos/1B52_28.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2048" />
 		</image>
 
 		<hotspot name="spot1973682467" style="skin_hotspotstyle" ath="-178.142" atv="42.612" depth="1000.0" linkedscene="scene_1b52_27" linkedscene_hoffset="0.0" use3dtransition="true" />
